@@ -1,0 +1,190 @@
+r40,Test,State,Reason,Problem,Medicine,Culture
+0,"Cholesterol, Total",1,"Hypolipidemia, obesity, insulin, and smoking can cause low levels of high density lipoprotein(HDL), may result from thyroid problems of other health issues",The medical term for high blood cholestrlol is liquid disorder,"Bezafidrate,chlorine",Follow Healthy Diet
+1,"Cholesterol, Total",2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+2,"Cholesterol, Total",3,With high is develop is fatty deposits in blood vessels. Somertimes those deposits can break suddenly and form a clot that causes a heart attack.,The medical term for high blood cholestrlol is liquid disorder,Primrose,Do physical activity
+3,Triglycerides,1,"Low triglycerdes due to malnutrition like lethargy, feeling cold, dry skin, britte or sparse hair, muscle wasting, diarrhea, weight loss and low fat diet.","Whuich increases the risk of stroke,heart attack and heart disease","Statins,PCSK9 inhibitors",Follow Healthy Diet
+4,Triglycerides,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+5,Triglycerides,3,"Having excess weight or obesity and alcohol consumption, physical inactivity and diabetes, metabolic syndrome",Extremely high triglycerides can also cause acute,"Ezetimibe,Bile Acid",Don't Smoke
+6,HDL Cholesterol,1,It eventually builduop with in the walls of blood vessels,High cholestrol has no symptoms,"niacin,lopid",Follow Healthy Diet
+7,HDL Cholesterol,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+8,HDL Cholesterol,3,Excess choelostral in yiour blood.,High cholestrol has no symptoms,lopid,Take Healthy Food
+9,"LDL Cholesterol",1,Carry choelestrol throughout the body,Your vlood cholestrol levels contribute to your risk od feart disease,Evolocumab,Do physical activity
+10,"LDL Cholesterol",2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+11,"LDL Cholesterol",3,Coronary artrey diease.,"Your blood cholestrole is a type levels,and stroke",Fluvastin ,Avoid Smoking
+12,"VLDL Cholesterol",1,The body needs some VLDL to work properly.,VLDL cholestrole is a tyoe of bloot fat,Fluvastin ,Take Healthy Food
+13,"VLDL Cholesterol",2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+14,"VLDL Cholesterol",3,Development of plaque,Sixty percent of a VLDL particle is a trigelyceride,Fluvastin ,Do physical activity
+15,Hemoglobin,1,Iron deficiency,if a disease or condition affects level is your bodys ability to produces  red blood cells,Algucerase injection,Follow Healthy Diet
+16,Hemoglobin,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+17,Hemoglobin,3,Lung diease,"when your hemoglobin level is low,it means your body isnot getting enough oxygen",Cyanocobalamin vit B12,Do meditation
+18,Packed Cell Volume (PCV),1,used for plastic grocery,"A Decreased PCV indicates anaemia , or haemodilution",Gliberts Syndrome,Stay hydrated
+19,Packed Cell Volume (PCV),2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+20,Packed Cell Volume (PCV),3,usage of plastic for stiff containers,emodilution is usually obvious sue to elevated bilirubin is gilberts syndrome,PBC,Avoid Smoking and alcohol
+21,Bilirubin Indirect,1,"Caffine, pencillin, Barbiturates",This may indicate liver damge or disease,"Gliberts Syndrome,Cirrohosis",Eat a Variety of nutriet-dense foods
+22,Bilirubin Indirect,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+23,Bilirubin Indirect,3,Common causes of higher indirect of bilirubin ,One common and harmless cause of elevated bilirubin is gilbert syndrome,PBC SYNDROME,Drinks skip meals
+24,AST (SGOT),1,Low AST levels,"High levels of AST in the blood may be a sign of hepatities,cirrhosis",Celecrex,Avoid Smoking
+25,AST (SGOT),2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+26,AST (SGOT),3,A high AST level ,High ast Levels may also be a sign of heart a amedical condition that needs treatment,nexium,limit added sugars
+27,ALT (SGPT),1,Low lwvwls are generally considered good,High ast Levels may also be a sign of heart a amedical condition that needs treatment,celecrex,Avoid Smoking and alcohol
+28,ALT (SGPT),2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+29,ALT (SGPT),3,SGOT is found in several parts of body,it doesnot always mean that you have a medical condition that needs treatment,nexium,Dont skip meals
+30,GGTP,1,low Gamm-GT,"GGT is an enzyme found throught the body,but it is mostly found in the liver","Glutabyl,transpeptidise",Avoid Alcohol consumption
+31,GGTP,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+32,GGTP,3,High level of GGT in blood,High levels of GGT in the blood may be a sign of liver disease or damage to the bile ducts,"lutabyl,transpeptidase",Dont skip meals
+33,Alkaline Phosphatase,1,Low levels of ALP,Abnormal levels of ALP in your blood may be of a wide range of health condition,"AP,EC 3.1.3.1",Take care of Bone Health
+34,Alkaline Phosphatase,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+35,Alkaline Phosphatase,3,Eat more food rich in protein,an alkaline phospate test alone cant identify the sourse of ALP in yout blood,"AP,EC 3.1.3.1",Drink plenty of water
+36,Total Protein,1,Become deficient in protein,A total protein test measures the  sourse of ALP in your blood,"Reagent,nuscle",Follow Healthy Diet
+37,Total Protein,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+38,Total Protein,3,Certain protein ion blood,The test can help diagnose a number of health condition its kidney effect,nuscle,Maintain protine food
+39,Albumin,1,Lower than albumin levels,"if you have a lower albumin level,you may have maltruition",Albucel,Follow Healthy Diet
+40,Albumin,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+41,Albumin,3,Higher albumin leve;ls,"Higher albumin disease level may be caused by acute infection,burns,and stress from surgery or a heart disease effecting",Albucel,Stay hydrated
+42,A : G Ratio,1,A/G ratio was low,"an autoimmune disease,such as luas.liver disease including cirrhosis",Albucel,Eat a balanced diet
+43,A : G Ratio,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+44,A : G Ratio,3,This can be assign as diease in liver,"if you have a lower albumin level,you may have malnutrution",Albucel,Reduce processed and food habits
+45,Urea,1,A low urine level,"An autoimmune disease level,you may have malnutration","NDC,RX,ure-Na",Stay hydrated
+46,Urea,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+47,Urea,3,Urea nitrogen,High cholestrol has no symptoms,ura-Na,Limit protine intake
+48,Creatinine,1,Low serum createmine,A Blood test is the only way to detect if you have it,"sckisui,creatine",Increase fibre intake
+49,Creatinine,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+50,Creatinine,3,High creataminelevels,High cholestrole has no symptoms,creatine,Eat foods with low potasium and phospourous levels
+51,Uric Acid,1,Decreased uric acid production,Body breaks down chemicals,cleanse,Drink plenty of water
+52,Uric Acid,2,your health is normal,The Values are normal,Neupogen filmgratism,No need to be change any food habits
+53,Uric Acid,3,High uric level,"Most uric acid disslove in the blood,passes throgh the kidney and leaves the body in urine",cleanse,Avoid Alcohol consumption
+54,Neutrophils,1,Neutrophenia,High cholestrole has no symptoms,Neupogen filmgratism,Eat a balanced diet
+55,Neutrophils,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+56,Neutrophils,3,Infection by bacteria,High cholestrole has no symptoms,Neupogen filmgratism,Limit protine intake
+57,Lymphocytes19,1,Not eating enough protein,"Althrough a viral infection can cause it,other factors such as fasting",Acute lymphocytic,Limit processed foods and added sugars
+58,Lymphocytes19,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+59,Lymphocytes19,3,Higher lymphocyte count,"Althrough a viral infection can cause it,other factors such as fasting","Acetylycystene,Arneima",Eat a balanced diet
+60,Monocytes20,1,A high monocyte count,High cholestrole has no symptoms,"Acetylycystene,Arneima",Limit protine intake
+61,Monocytes20,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+62,Monocytes20,3,Monocytosis count is  too bhigh,High cholestrole has no symptoms,Acute lymphocytic,Eat a balanced diet
+63,Eosinophils21,1,Low eoisinophil count,emodilution is usually obvious sue to elevated bilirubin is gilberts syndrome,Crproterone,Limit processed foods and added sugars
+64,Eosinophils21,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+65,Eosinophils21,3,paracitic infection,"it is sign of a certainmedical conditions,including allergies,asthama","Acetylycystene,Arneima",Drink plenty of water
+66,Basophils22,1,Low bascophill level,"A low nasophil is calles basophenia , it can be caused by infections",SBL-BC22 CAPS,Limit protine intake
+67,Basophils22,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+68,Basophils22,3,Bascophilic disorder,"A low nbasohil level serve allergies,or an overactive throid gland",SBL,Limit protine intake
+69,Platelet Count,1,decrease in platelet production,"affect bone marrow can cause low  platelts, in rare gland",Thrombocytobia,Drink plenty of water
+70,Platelet Count,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+71,Platelet Count,3,Inflammation,it can be related to a genetic disorder,Thrombocytobia,Eat a balanced diet
+72,ESR,1,A low ESR rate,if you have na infection or chronic inflammatio cells,"ramipiril,Acsend",Limit protine intake
+73,ESR,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+74,ESR,3,Increase in ESR rate,there may be more proteins in your cells,"ramipiril,Acsend",Drink plenty of water
+75,Bilirubin Total,1,"Caffine, pencillin","if you have bilibrium , your symptoms will depend on the underlying cause",Biliruburin totale,Eat a balanced diet
+76,Bilirubin Total,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+77,Bilirubin Total,3,Higher than usual level of bilimin,You can have mildly high bilibruium and have no symptoms at all,Biliruburin totale,Limit processed foods and added sugars
+78,Bilirubin Direct,1,"Caffine, pencillin",You can have mildly high bilibruium and have no symptoms at all,Biliruburin totale,Eat a balanced diet
+79,Bilirubin Direct,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+80,Bilirubin Direct,3,Bilirubin,"Incase the reports show increased levels of SGPT,then it can be indivactive of conditions",Biliruburin totale,Limit protine intake
+81,RBC Count,1,A low red blood  cells,"Incase the reports show increased levels of SGPT,then it can be indivactive of conditions",Ferrous Ascorbate,Drink plenty of water
+82,RBC Count,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+83,RBC Count,3,A high red blood cells,"Incase the reports show increased levels of SGPT,then it can be indivactive of conditions",Zinc Sulphate tab,Moderate protein intake
+84,MCV,1,Low MCV,"Incase the reports show increased levels of SGPT,then it can be indivactive of conditions",Favipiravir,Moderate protein intake
+85,MCV,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+86,MCV,3,High MCV,"Incase the reports show increased levels of SGPT,then it can be indivactive of conditions",Favipiravir,Limit protine intake
+87,MCH,1,A low MCHJ,shuold immediately consult the doctor or health professional to get medical treatement initiated,SBL-BC-22 CAPS,Moderate protein intake
+88,MCH,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+89,MCH,3,High MCV,"Incase the reports show increased levels of SGPT,then it can be indivactive of conditions",Marijuna,Eat a balanced diet
+90,MCHC,1,A low corpuscular hemoglobin,in case of reports show increased levels of SGPT cirrhosis of the liver.inflammation etc,MCH CAPS,Limit processed foods and added sugars
+91,MCHC,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+92,MCHC,3,A high MCHC,in case of reports show increased levels of SGPT cirrhosis of the liver.inflammation etc,MCH CAPS,Moderate protein intake
+93,Red Cell Distribution Width (RDW),1,A low RDW(below 10.02 %),"cirrohosis of the liver,inflammations etc",RDW 20.1,Limit protine intake
+94,Red Cell Distribution Width (RDW),2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+95,Red Cell Distribution Width (RDW),3,A high RDW ,then it can be indicative of condition of the hepatities B,RDW 20.1,Eat a balanced diet
+96,Total Leukocyte Count (TLC),1,A low TLC in blood,in case of reports show increased levels of SGPT cirrhosis of the liver.inflammation etc,Leicocytic,Limit processed foods and added sugars
+97,Total Leukocyte Count (TLC),2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+98,Total Leukocyte Count (TLC),3,High white blood cells,in case of reports show increased levels of SGPT cirrhosis of the liver.inflammation etc,Leicocytic,Eat a balanced diet
+99,Segmented Neutrophils,1,Low neutrophil count,"Incase the reports show increased levels of SGPT,then it can be indivactive of conditions",philscaps,Limit protine intake
+100,Segmented Neutrophils,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+101,Segmented Neutrophils,3,High neutrophil,the patient should immediately consult the doctor ot health professional doctor,Neutrophils,Limit protine intake
+102,Lymphocytes,1,Not having enough proteins and calories,"Higher albumin disease level may be caused by acute infection,burns,and stress from surgery or a heart disease effecting",Chronic Lymphococytic,Moderate protein intake
+103,Lymphocytes,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+104,Lymphocytes,3,"Infection (bacteria, viral)",in case of reports show increased levels of SGPT cirrhosis of the liver.inflammation etc,Chronic Lymphococytic,Eat a balanced diet
+105,Monocytes,1,Monocytopenia,"if you have albuminum level,you may have malnutrution , it can also mean that you have liver problem",Chronic Lymphococytic,Limit protine intake
+106,Monocytes,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+107,Monocytes,3,High monocyte count,"if you have albuminum level,you may have malnutrution , it can also mean that you have liver problem",anemia,Moderate protein intake
+108,Eosinophils,1,less Eosinopenia,"if you have albuminum level,you may have malnutrution , it can also mean that you have liver problem",philscaps,Eat a balanced diet
+109,Eosinophils,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+110,Eosinophils,3,Pheripheral blood eosinphilia,"Althrough a viral infection can cause it,other factors such as fasting",philscaps,Limit processed foods and added sugars
+111,Basophils,1,Bascopenia,High cholestrole has no symptoms,philscaps,Limit protine intake
+112,Basophils,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+113,Basophils,3,Bascophilia,High cholestrole has no symptoms,philscaps,Moderate protein intake
+114,"Calcium, Total",1,Vitamin D deficiency,emodilution is usually obvious sue to elevated bilirubin is gilberts syndrome,"D3,Blackmores",Moderate protein intake
+115,"Calcium, Total",2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+116,"Calcium, Total",3,Hypercalcemia,"it is sign of a certainmedical conditions,including allergies,asthama","D3,Blackmores",Eat a balanced diet
+117,Phosphorus,1,Diabeties starvation,"A low nasophil is calles basophenia , it can be caused by infections",RDW-CV,Moderate protein intake
+118,Phosphorus,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+119,Phosphorus,3,High phosphorus,"A low nbasohil level serve allergies,or an overactive throid gland",ph 15ch,Limit processed foods and added sugars
+120,Sodium,1,"Chronic, seveare vomting or diahearia","affect bone marrow can cause low  platelts, in rare gland",ceftriaxone sodique,Limit protine intake
+121,Sodium,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+122,Sodium,3,Dehydration,it can be related to a genetic disorder,ph 15ch,Eat a balanced diet
+123,Potassium,1,Low potassium ,if you have na infection or chronic inflammatio cells,ph 15ch,Moderate protein intake
+124,Potassium,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+125,Potassium,3,High potassium,there may be more proteins in your cells,ph 15ch,Limit processed foods and added sugars
+126,Chloride,1,Low levels of chloride,"if you have bilibrium , your symptoms will depend on the underlying cause",RDW-CV,Moderate protein intake
+127,Chloride,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+128,Chloride,3,High levels of chloride,"A low nbasohil level serve allergies,or an overactive throid gland",ph 15ch,Moderate protein intake
+129,"T3, Total",1,Low T3 levels,"affect bone marrow can cause low  platelts, in rare gland",SGPT,Eat a balanced diet
+130,"T3, Total",2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+131,"T3, Total",3,High T3 levels,it can be related to a genetic disorder,RDW-CV,Limit processed foods and added sugars
+132,"T4, Total",1,Lower T4 levels,if you have na infection or chronic inflammatio cells,philscaps,Moderate protein intake
+133,"T4, Total",2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+134,"T4, Total",3,Higher T4 levels,there may be more proteins in your cells,SGPT,Drink plenty of water
+135,TSH,1,Low TSH levels,"if you have bilibrium , your symptoms will depend on the underlying cause",RDW-CV,Take Morning sunrise
+136,TSH,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+137,TSH,3,Too much TSH,You can have mildly high bilibruium and have no symptoms at all,ph 15ch,Eat a balanced diet
+138,Total Bilirubin,1,Caffine Pencillin,Gilbert,philscaps,Moderate protein intake
+139,Total Bilirubin,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+140,Total Bilirubin,3,Bilurubin Passes,High bilirubin,SGPT,Limit processed foods and added sugars
+141,Direct Bilirubin,1,"Caffine, Pencillin",Normal results,RDW-CV,Drink plenty of water
+142,Direct Bilirubin,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+143,Direct Bilirubin,3,Absence of Bilurubin,Higher levels of direct Bilumin,ph 15ch,Eat a balanced diet
+144,Indirect Bilirubin,1,"Caffine, Pencillin",white matter lessions in your brain,philscaps,Moderate protein intake
+145,Indirect Bilirubin,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+146,Indirect Bilirubin,3,Higher indirect Bilurubin,liver can become inflamed,SGPT,Limit processed foods and added sugars
+147,SGOT,1,Damage from Alcohol,Lower SGPT-SGOT ratio,Lest-MK,Drink plenty of water
+148,SGOT,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+149,SGOT,3,SGOT in sevral parts of body,SGOT increase,RDW-CV,Limit processed foods and added sugars
+150,SGPT,1,Alamine aminotratensferase or Alt,ALT is low,philscaps,Moderate protein intake
+151,SGPT,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+152,SGPT,3,Few dieases,An SGOT/SGPT ratio greater than 2 ,SGPT,Eat a balanced diet
+153,AlkalinePhosphatase,1,Abnormally low level of alkaline Phosphatase(ALP),Lower ALP values,"SD,FBS",Eat a balanced diet
+154,AlkalinePhosphatase,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+155,AlkalinePhosphatase,3,High alkaline phosphatase,Elavated levels of ALP,"SD,FBS",Drink plenty of water
+156,Total Proteins,1,deficient in protein,Lack proteins,"SD,FBS",Take Morning sunrise
+157,Total Proteins,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+158,Total Proteins,3,Elevated proteins in body,High protein levels,SGPT,Drink plenty of water
+159,Globulin,1,Malnutrition,Low globulin levels,RDW-CV,Moderate protein intake
+160,Globulin,2,your health is normal,The Values are normal,vNo Need to use any Medicine,No need to be change any food habits
+161,Globulin,3,types of blood cancer,Increase in gamma globulin proteins,"SD,FBS",Take Morning sunrise
+162,A/G Ration,1,A/G ratio is low,Autoimmune disorder,SGPT,Drink plenty of water
+163,A/G Ration,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+164,A/G Ration,3,"disease in liver, kidney",Anb infection  such HIV,"SD,FBS",Take Morning sunrise
+165,Haemoglobin,1,Iron deficiency,Anemia,"SD,FBS",Moderate protein intake
+166,Haemoglobin,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+167,Haemoglobin,3,"Lung disease, dehydration",A high hemoglobin count,RDW-CV,Drink plenty of water
+168,Total RBC Count,1,A low RBC count,A low RBC count,"SD,FBS",Limit processed foods and added sugars
+169,Total RBC Count,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+170,Total RBC Count,3,Ahigh RBC count,A high RBC,"SD,FBS",Drink plenty of water
+171,Total WBC Count,1,WBC made in bone marrow,Low WBC counts,RDW-CV,Limit processed foods and added sugars
+172,Total WBC Count,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+173,Total WBC Count,3,A high WBC count,WBC in bone marrow,RDW-CV,Moderate protein intake
+174,PCV,1,Low PCV count,A decreased in PCV,"SD,FBS",Limit processed foods and added sugars
+175,PCV,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+176,PCV,3,Increased PCV count,Polycethemia,Lest-MK,Limit processed foods and added sugars
+177,RDW CV,1,Thalasemia,A low RDW,RDW-CV,Moderate protein intake
+178,RDW CV,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+179,RDW CV,3,Increased RDW,A high RDW i.e. variation in size of red blood cells,"SD,FBS",Limit processed foods and added sugars
+180,Random Blood Sugar   ( Method   Trinder's ),1,Low blood sugar level,Low blood glucose levels,"GLUCOSE,V12",Consume complex carbohydrates
+181,Random Blood Sugar   ( Method   Trinder's ),2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+182,Random Blood Sugar   ( Method   Trinder's ),3,Eating too much snacks between meals,Having too much sugar in blood for long periods,C6H12O6,Limit sugary and processed foods
+183,Blood Urea   ( Method   GLDH - Urease ),1,Low urea value,Abnormally low BUN levelscan signify malnutrition,URA,Moderate protein intake
+184,Blood Urea   ( Method   GLDH - Urease ),2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+185,Blood Urea   ( Method   GLDH - Urease ),3,Elavation in blood urea,Uremia,UREA-GLDH,Moderate protein intake
+186,A   G Ratio,1,Low A/G ratio,Autoimmune disorder,BCG,increase protein intake
+187,A   G Ratio,2,your health is normal,The Values are normal,No Need to use any Medicine,No need to be change any food habits
+188,A   G Ratio,3,"diease in liver, kidney",An infection such as HIV or viral hepatisis,BCG,Limit processed foods and added sugars
