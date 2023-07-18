@@ -1,10 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-from matplotlib.widgets import *
 from glob import glob
-
-import pandas as pd
-import matplotlib.pyplot as plt
 import matplotlib.gridspec as gridspec
 from matplotlib.gridspec import GridSpecFromSubplotSpec
 
@@ -178,7 +174,11 @@ def motion_hover(event):
             text_display1.set_text(text_label1)
             text_display1.set_visible(True)
             text_label2 = '{}'.format([tt1[n] for n in annotation_index['ind']])
-            text_display2.set_text(text_label2)
+            if(text_label2 == "['No Need to use any Medicine']"):
+                text_display2.set_text(text_label2)
+            else:
+                text_label2 += '\n[Please Contact Doctor Before Use]'
+                text_display2.set_text(text_label2)
             text_display2.set_visible(True)
             text_label3 = '{}'.format([tt2[n] for n in annotation_index['ind']])
             text_display3.set_text(text_label3)

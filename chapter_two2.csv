@@ -1,23 +1,23 @@
-Test Name,Results,Units,Bio. Ref. Interval,,,
-"LIVER & KIDNEY PANEL, SERUM(Spectrophotometry, indirect ISE)",,,,,,
-Bilirubin Total,0.2,mg/dL,<1.00,,,
-Bilirubin Direct,0.1,mg/dL,0.00 3.00,,,
-Bilirubin Indirect,0.1,mg/dL,<1.10,,,
-AST (SGOT),41,U/L,15.00 37.00,,,
-ALT (SGPT),38,U/L,30 65,,,
-GGTP,39,U/L,5 55,,,
-Alkaline Phosphatase,180,U/L,50 136,,,
-Total Protein,6.2,g/dL,6.40 8.20,,,
-Albumin,4.3,g/dL,3.4 5.0,,,
-A : G Ratio,2.26,,0.90 2.00,,,
-Urea,19,mg/dL,14.9 38.5,,,
-Creatinine,0.9,mg/dL,0.6 1.0,,,
-Uric Acid,5.1,mg/dL,2.6 6.0,,,
-"Calcium, Total",8.5,mg/dL,8.50 10.10,,,
-Phosphorus,3.5,mg/dL,2.50 4.90,,,
-Sodium,142,mEq/L,3.50 5.10,,,
-Potassium,3.9,mEq/L,3.50 5.10,,,
-Chloride,106,mEq/L,98.00 107.00,,,
-"T3, Total",2,ng/mL,0.60 1.81,,,
-"T4, Total",9,ug/dL,5.01 12.45,,,
-TSH,8.6,ulU/mL,0.35 5.50,,,
+Test Name,Results,Units,Bio. Ref. Interval
+"LIVER & KIDNEY PANEL, SERUM(Spectrophotometry, indirect ISE)",,,
+Bilirubin Total,0.2,mg/dL,<1.00
+Bilirubin Direct,0.1,mg/dL,0.00 3.00
+Bilirubin Indirect,0.1,mg/dL,<1.10
+AST (SGOT),41,U/L,15.00 37.00
+ALT (SGPT),38,U/L,30 65
+GGTP,39,U/L,5 55
+Alkaline Phosphatase,180,U/L,50 136
+Total Protein,6.2,g/dL,6.40 8.20
+Albumin,4.3,g/dL,3.4 5.0
+A : G Ratio,2.26,,0.90 2.00
+Urea,19,mg/dL,14.9 38.5
+Creatinine,0.9,mg/dL,0.6 1.0
+Uric Acid,5.1,mg/dL,2.6 6.0
+"Calcium, Total",8.5,mg/dL,8.50 10.10
+Phosphorus,3.5,mg/dL,2.50 4.90
+Sodium,142,mEq/L,3.50 5.10
+Potassium,3.9,mEq/L,3.50 5.10
+Chloride,106,mEq/L,98.00 107.00
+"T3, Total",2,ng/mL,0.60 1.81
+"T4, Total",9,ug/dL,5.01 12.45
+TSH,8.6,ulU/mL,0.35 5.50

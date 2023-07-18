@@ -1,0 +1,10 @@
+Test Name,Results,Units,Bio. Ref. Interval
+HEMOGRAM(Flow Cytometery),,,
+Hemoglobin,11,g/dL,11.50 15.00
+Packed Cell Volume (PCV),40,%,36.00 46.00
+RBC Count,3.9,mill/mm3,3.80 4.80
+MCV,80,fL,80.00 100.00
+MCH,30,pg,27.00 32.00
+MCHC,33,g/dL,32.00 35.00
+Red Cell Distribution Width (RDW),11,%,11.50 14.50
+Total Leukocyte Count (TLC),8.9,thou/mm3,4.00 10.00
